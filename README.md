@@ -2,7 +2,7 @@
 
 A homepage inspired by [0resmon.tebex.io](https://0resmon.tebex.io/), built as part of a frontend hiring assignment.
 
-**Live Demo:** [your-deployment-link.vercel.app](https://your-deployment-link.vercel.app)
+**Live Demo:** [https://frontend-assignment-crux.vercel.app/](https://frontend-assignment-crux.vercel.app/)
 
 ---
 
@@ -97,8 +97,9 @@ Or drag `index.html` into any browser.
 
 ## Deployment
 
+
 Deployed on **Vercel** via GitHub integration.
 
-**Live link:** [your-deployment-link.vercel.app](https://frontend-assignment-crux.vercel.app/)
+**Live link:** [https://frontend-assignment-crux.vercel.app/](https://frontend-assignment-crux.vercel.app/)
 
 > Replace the live link above with your actual Vercel/Netlify URL before submitting.
