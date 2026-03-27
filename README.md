@@ -99,6 +99,6 @@ Or drag `index.html` into any browser.
 
 Deployed on **Vercel** via GitHub integration.
 
-**Live link:** [your-deployment-link.vercel.app](https://your-deployment-link.vercel.app)
+**Live link:** [your-deployment-link.vercel.app](https://frontend-assignment-crux.vercel.app/)
 
 > Replace the live link above with your actual Vercel/Netlify URL before submitting.
